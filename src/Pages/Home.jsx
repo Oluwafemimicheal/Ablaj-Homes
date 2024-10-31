@@ -1,9 +1,8 @@
-import React from 'react'
-
+import Footer from "../Components/Footer"
 const Home = () => {
   return (
     <div>
-      AblaJ Homes Developers!
+      <Footer/>
     </div>
   )
 }
