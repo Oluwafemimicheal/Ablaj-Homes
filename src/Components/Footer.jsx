@@ -35,7 +35,7 @@ const Footer = () => {
                   placeholder="Your e-mail"
                   className="bg-transparent placeholder:text-white/60 w-full"
                 />
-                <button className="flex items-center gap-2 py-2 px-5 bg-gray-300/20 rounded-full text-white">
+                <button className="flex items-center gap-2 py-2 px-5 bg-gray-300/20 rounded-full text-white hover:bg-gray-300/15 hover:text-white/70 transition">
                   Send <FaArrowRight />
                 </button>
               </div>
@@ -80,7 +80,7 @@ const Footer = () => {
             <h1 className="mb-5 text-gray-300">Get the app</h1>
             <a
               href="#"
-              className="flex items-center py-2 px-5 bg-gray-200/20 rounded-lg mb-4"
+              className="flex items-center py-2 px-5 bg-gray-200/20 hover:bg-gray-200/15 transition rounded-lg mb-4"
             >
               <div className="pr-2">
                 <FaApple size={20} />
@@ -92,7 +92,7 @@ const Footer = () => {
             </a>
             <a
               href="#"
-              className="flex items-center py-2 px-5 bg-gray-200/20 rounded-lg mb-4"
+              className="flex items-center py-2 px-5 bg-gray-200/20 hover:bg-gray-200/15 transition rounded-lg mb-4"
             >
               <div className="pr-2">
                 <FaGooglePlay size={20} />
