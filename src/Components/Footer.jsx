@@ -57,7 +57,7 @@ const Footer = () => {
             <h1 className="mb-5 text-gray-300">Quick Link</h1>
             <li>About</li>
             <li>Contact</li>
-            <li>FAQ's</li>
+            <li>FAQ&apos;s</li>
             <li>Blog</li>
             <li>Pricing Plan</li>
             <li>Privacy Policy</li>

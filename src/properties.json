@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "image": "../src/assets/image/house1.png",
+        "name": "Seaside Serenity Villa",
+        "description": "A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood",
+        "roomView": {
+            "bedroom": "3-Bedroom",
+            "bathroom": "1-Baths",
+            "villa": "Villa"
+        },
+        "price": "450,000,000"
+    },
+    {
+        "id": "2",
+        "image": "../src/assets/image/house2.png",
+        "name": "Metropolitan Haven",
+        "description": "A chic and fully-furnished 2-bedroom apartment with panoramic city views",
+        "roomView": {
+            "bedroom": "4-Bedroom",
+            "bathroom": "2-Baths",
+            "villa": "Villa"
+        },
+        "price": "550,000,000"
+    },
+    {
+        "id": "3",
+        "image": "../src/assets/image/house3.png",
+        "name": "Rustic Retreat Cottage",
+        "description": "An elegant 3-bedroom, 2.5-bathroom townhouse in a gated community",
+        "roomView": {
+            "bedroom": "5-Bedroom",
+            "bathroom": "3-Baths",
+            "villa": "Villa"
+        },
+        "price": "600,000,000"
+    },
+    {
+        "id": "4",
+        "image": "../src/assets/image/house1.png",
+        "name": "Seaside Serenity Villa",
+        "description": "A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood",
+        "roomView": {
+            "bedroom": "4-Bedroom",
+            "bathroom": "2-Baths",
+            "villa": "Villa"
+        },
+        "price": "400,000,000"
+    },
+    {
+        "id": "5",
+        "image": "../src/assets/image/house2.png",
+        "name": "Metropolitan Haven",
+        "description": "A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood",
+        "roomView": {
+            "bedroom": "2-Bedroom",
+            "bathroom": "1-Baths",
+            "villa": "Villa"
+        },
+        "price": "350,000,000"
+    },
+    {
+        "id": "6",
+        "image": "../src/assets/image/house3.png",
+        "name": "Rustic Retreat Cottage",
+        "description": "A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood",
+        "roomView": {
+            "bedroom": "4-Bedroom",
+            "bathroom": "3-Baths",
+            "villa": "Villa"
+        },
+        "price": "610,000,000"
+    }
+]
